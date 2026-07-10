@@ -83,3 +83,7 @@ SOLAGE := SOcial LeArning GamE
 ## 親プロジェクト
 
 [νTRON Project](https://github.com/Adraste-a-rum/neuTRON-project)
+
+## 註
+
+主ブランチ名が`master`であるのは、二次元ソーシャルゲームの巨大な成功例であるFGOにおけるプレイヤーへの二人称に倣ったもである。（すなわち「マスターとサーヴァント」であり、「masterとslave」ではない）
