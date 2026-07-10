@@ -76,7 +76,7 @@ Stage Aで有望な関連が確認できた場合、アプリ内に実際の「�
 
 ## 親プロジェクト
 
-[νTRON Project](obsidian://open?vault=Adrastorage&file=NTRON%2FneuTRON-project)
+[νTRON Project](https://github.com/Adraste-a-rum/neuTRON-project)
 
 
 ## 究極的目標
