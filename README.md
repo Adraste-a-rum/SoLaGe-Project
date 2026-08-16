@@ -99,6 +99,8 @@
 
 SOLAGE := SOcial LeArning GamE
 
+「ソシャゲ」をもじって「ソラゲ」としているが、洒落た読み方をしたい場合は「ソラージュ」とも読める
+
 ## 親プロジェクト
 
 [νTRON Project](https://github.com/Adraste-a-rum/neuTRON-project)
